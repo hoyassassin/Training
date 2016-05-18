@@ -24,7 +24,7 @@
       *.prof
 
       # WebStorm
-      *.iml
+      ../.idea/Training.iml
 
       # Directory-based project format:
       .idea/
