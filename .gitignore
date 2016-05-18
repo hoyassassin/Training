@@ -24,12 +24,11 @@
       *.prof
 
       # WebStorm
-      ../.idea/Training.iml
+
 
       # Directory-based project format:
       .idea/
-      .idea/workspace.xml
-      **/.idea/workspace.xml
+
 
       # mac hidden files
       .DS_Store
